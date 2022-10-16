@@ -1,4 +1,3 @@
-
 package org.tns.oopsconcept;
 public class Firstprogram {
 	int year_of_purchase;
